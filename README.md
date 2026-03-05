@@ -32,7 +32,7 @@ sudo yum install git -y
 ```
 ### 2.2 ソースコードの取得
 ```sh
-git clone https://github.com/ZeroRein/aw-edu02.git
+git clone [https://github.com/ZeroRein/aw-edu02.git](https://github.com/ZeroRein/sui_hosyu.git)
 ```
 ## 3. ビルド & 起動
 ```sh
